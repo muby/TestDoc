@@ -1,4 +1,4 @@
-Lumache has its documentation hosted on Read the Docs.
+Lumache has its documentation hosted on Read the Docs. (test)
 ==============================================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
